@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently an EEE freshman at Nanyang Technological University, Singapore.  
+I'm currently an EEE sophomore at Nanyang Technological University, Singapore.  
 Being a tech enthusiast, I'm especially interested in consumer gadgets and user interface of softwares.  
-I know a little bit about Pascal and C. Currently learning python and building telegram bots.
+I know a little bit of Pascal and C. Currently learning python and building telegram bots.
 
 Feel free to check out my code below! More new projects are on the way!
