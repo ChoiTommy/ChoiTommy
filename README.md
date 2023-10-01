@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently an EEE junior at Nanyang Technological University, Singapore.  
-Being a tech enthusiast, I'm especially interested in consumer gadgets and user interface of softwares.  
+I'm currently an EEE senior at Nanyang Technological University, Singapore.  
+As a tech enthusiast, I'm especially interested in consumer gadgets and software user interfaces.  
 I know a little bit of Pascal, C/C++ and Python. Currently learning computer networking and building telegram bots.
 
 Feel free to check out my code below! More new projects are on the way!
